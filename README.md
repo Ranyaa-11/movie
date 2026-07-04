@@ -80,4 +80,4 @@ src/
 
 ---
 
-Built with ❤️ using modern React and web technologies.
+Built with ❤️ using modern web technologies.
