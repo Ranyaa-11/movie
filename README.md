@@ -12,11 +12,6 @@ A modern, responsive movie search application that lets you discover films by ti
 
 ## Tools & Technologies Used
 
-**Frontend Framework & Libraries:**
-- **React 18.3.1** - JavaScript library for building interactive user interfaces
-- **React DOM 18.3.1** - React package for rendering components to the DOM
-- **React Scripts 5.0.1** - Build and development tools for Create React App
-
 **Build & Development Tools:**
 - **Webpack** - Module bundler for optimizing production builds
 - **Node.js & npm** - JavaScript runtime and package manager for dependency management
